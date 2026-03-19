@@ -2,7 +2,7 @@
 
 This is an example Git repository that is used as part of the Git for project management workshop.
 
-The aim of this course is to demonstrate how Github can be used to manage your project and collaborate with others on a project effectively .
+The aim of this course is to demonstrate how Github can be used to manage your project and collaborate with others on a project effectively.
 
 For the purposes of this course we will consider building a bungalow with the following plan:
 
