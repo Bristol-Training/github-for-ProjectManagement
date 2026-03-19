@@ -21,3 +21,5 @@ For the purposes of this course we will consider building a bungalow with the fo
 7 - Second fix: Installing finished electrical items (sockets/switches), plumbing (taps/boiler), doors, and kitchen/bathroom fittings.
 
 8 - Final finishes: Decorating, flooring, landscaping
+
+Please try and add git issues and sub issues based on this plan to this repository. I'll take you through an example first.
